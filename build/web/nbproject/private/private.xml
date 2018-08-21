@@ -5,5 +5,15 @@
         <group>
             <file>file:/C:/Users/sspathak/Documents/NetBeansProjects/OracleJETQuickStartBasic/index.html</file>
         </group>
+        <group name="OracleJETComponentInteraction">
+            <file>file:/C:/Users/sspathak/Documents/NetBeansProjects/SampleWebApplication/web/js/path_mapping.json</file>
+            <file>file:/C:/Users/sspathak/Documents/NetBeansProjects/SampleWebApplication/web/WEB-INF/weblogic.xml</file>
+            <file>file:/C:/Users/sspathak/Documents/NetBeansProjects/SampleWebApplication/web/index.html</file>
+            <file>file:/C:/Users/sspathak/Documents/NetBeansProjects/SampleWebApplication/web/js/viewModels/customers.js</file>
+            <file>file:/C:/Users/sspathak/Documents/NetBeansProjects/SampleWebApplication/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/sspathak/Documents/NetBeansProjects/SampleWebApplication/web/js/appController.js</file>
+            <file>file:/C:/Users/sspathak/Documents/NetBeansProjects/SampleWebApplication/web/js/views/customers.html</file>
+            <file>file:/C:/Users/sspathak/Documents/NetBeansProjects/SampleWebApplication/web/js/main.js</file>
+        </group>
     </open-files>
 </project-private>
